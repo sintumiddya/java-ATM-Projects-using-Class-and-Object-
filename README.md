@@ -1,6 +1,6 @@
 # 🏧 Java ATM Machine(1.1)
 
-A simple **ATM Management System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts. This is a console-based application that simulates basic ATM operations such as PIN verification, balance inquiry, cash withdrawal, and cash deposit.
+A simple **ATM Machine System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts. This is a console-based application that simulates basic ATM operations such as PIN verification, balance inquiry, cash withdrawal, and cash deposit.
 
 ## 📌 Features
 
